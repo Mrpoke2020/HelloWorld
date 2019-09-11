@@ -1,5 +1,5 @@
 **Name**: Kyle Peach
 
-**Assignment Name**: Assignment 1A: Create Glitch Account and Page
+**Assignment Name**: Assignment 2A: Create Github Account
 
-**Date**: August 28, 2019
+**Date**: Septemper 9. 2019
